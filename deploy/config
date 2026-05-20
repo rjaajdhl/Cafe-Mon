@@ -1,1 +1,14 @@
-
+{
+  "biostar": {
+    "host": "192.168.0.20",
+    "port": 443,
+    "username": "admin",
+    "password": "yourpassword"
+  },
+  "devices": [],
+  "timeSlots": [
+    { "name": "breakfast", "label": "Breakfast", "start": "07:30", "end": "09:00" },
+    { "name": "lunch",     "label": "Lunch",     "start": "11:30", "end": "13:00" },
+    { "name": "dinner",    "label": "Dinner",     "start": "17:30", "end": "19:00" }
+  ]
+}
